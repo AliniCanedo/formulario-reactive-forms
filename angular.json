@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "formulario-reactive-forms"
+    }
+  },
+  "defaultProject": "formulario-reactive-forms",
+  "cli": {
+    "analytics": "09f2f787-3787-4357-88f4-3073b78098f3"
+  }
 }
